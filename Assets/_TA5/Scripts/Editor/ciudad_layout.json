@@ -1,0 +1,1099 @@
+{
+ "objects": [
+  {
+   "name": "Suelo",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    -0.5,
+    0.0
+   ],
+   "size": [
+    70.0,
+    1.0,
+    130.0
+   ],
+   "mat": "Mat_Suelo",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": true,
+   "visible": true
+  },
+  {
+   "name": "Sendero_Portal_Plaza",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    0.025,
+    -32.5
+   ],
+   "size": [
+    4.0,
+    0.05,
+    55.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": true,
+   "visible": true
+  },
+  {
+   "name": "Sendero_Plaza_Torre",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    0.025,
+    22.5
+   ],
+   "size": [
+    4.0,
+    0.05,
+    35.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": true,
+   "visible": true
+  },
+  {
+   "name": "Linea_Neon_1",
+   "shape": "cube",
+   "pos": [
+    -2.2,
+    0.06,
+    -32.5
+   ],
+   "size": [
+    0.15,
+    0.06,
+    55.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Linea_Neon_2",
+   "shape": "cube",
+   "pos": [
+    2.2,
+    0.06,
+    -32.5
+   ],
+   "size": [
+    0.15,
+    0.06,
+    55.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Linea_Neon_3",
+   "shape": "cube",
+   "pos": [
+    -2.2,
+    0.06,
+    22.5
+   ],
+   "size": [
+    0.15,
+    0.06,
+    35.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Linea_Neon_4",
+   "shape": "cube",
+   "pos": [
+    2.2,
+    0.06,
+    22.5
+   ],
+   "size": [
+    0.15,
+    0.06,
+    35.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Portal_Pilar_Izq",
+   "shape": "cube",
+   "pos": [
+    -3.5,
+    3.0,
+    -45.0
+   ],
+   "size": [
+    1.0,
+    6.0,
+    1.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Zona_A_Portal",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Portal_Pilar_Der",
+   "shape": "cube",
+   "pos": [
+    3.5,
+    3.0,
+    -45.0
+   ],
+   "size": [
+    1.0,
+    6.0,
+    1.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Zona_A_Portal",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Portal_Arco",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    6.5,
+    -45.0
+   ],
+   "size": [
+    8.0,
+    1.0,
+    1.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Zona_A_Portal",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Plaza_Plataforma",
+   "shape": "cylinder",
+   "pos": [
+    0.0,
+    0.1,
+    0.0
+   ],
+   "size": [
+    20.0,
+    0.2,
+    20.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Zona_B_Plaza",
+   "collider": true,
+   "teleport": true,
+   "visible": true
+  },
+  {
+   "name": "Plaza_Holograma",
+   "shape": "sphere",
+   "pos": [
+    0.0,
+    5.0,
+    0.0
+   ],
+   "size": [
+    2.0,
+    2.0,
+    2.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Zona_B_Plaza",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Farola_1",
+   "shape": "cylinder",
+   "pos": [
+    -7.0,
+    2.0,
+    -7.0
+   ],
+   "size": [
+    0.3,
+    4.0,
+    0.3
+   ],
+   "mat": "Mat_Metal",
+   "group": "Zona_B_Plaza",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Farola_1_Luz",
+   "shape": "sphere",
+   "pos": [
+    -7.0,
+    4.2,
+    -7.0
+   ],
+   "size": [
+    0.6,
+    0.6,
+    0.6
+   ],
+   "mat": "Mat_Neon",
+   "group": "Zona_B_Plaza",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Farola_2",
+   "shape": "cylinder",
+   "pos": [
+    7.0,
+    2.0,
+    -7.0
+   ],
+   "size": [
+    0.3,
+    4.0,
+    0.3
+   ],
+   "mat": "Mat_Metal",
+   "group": "Zona_B_Plaza",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Farola_2_Luz",
+   "shape": "sphere",
+   "pos": [
+    7.0,
+    4.2,
+    -7.0
+   ],
+   "size": [
+    0.6,
+    0.6,
+    0.6
+   ],
+   "mat": "Mat_Neon",
+   "group": "Zona_B_Plaza",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Farola_3",
+   "shape": "cylinder",
+   "pos": [
+    -7.0,
+    2.0,
+    7.0
+   ],
+   "size": [
+    0.3,
+    4.0,
+    0.3
+   ],
+   "mat": "Mat_Metal",
+   "group": "Zona_B_Plaza",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Farola_3_Luz",
+   "shape": "sphere",
+   "pos": [
+    -7.0,
+    4.2,
+    7.0
+   ],
+   "size": [
+    0.6,
+    0.6,
+    0.6
+   ],
+   "mat": "Mat_Neon",
+   "group": "Zona_B_Plaza",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Farola_4",
+   "shape": "cylinder",
+   "pos": [
+    7.0,
+    2.0,
+    7.0
+   ],
+   "size": [
+    0.3,
+    4.0,
+    0.3
+   ],
+   "mat": "Mat_Metal",
+   "group": "Zona_B_Plaza",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Farola_4_Luz",
+   "shape": "sphere",
+   "pos": [
+    7.0,
+    4.2,
+    7.0
+   ],
+   "size": [
+    0.6,
+    0.6,
+    0.6
+   ],
+   "mat": "Mat_Neon",
+   "group": "Zona_B_Plaza",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Banco_1",
+   "shape": "cube",
+   "pos": [
+    -7.0,
+    0.45,
+    0.0
+   ],
+   "size": [
+    0.8,
+    0.5,
+    3.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Zona_B_Plaza",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Banco_2",
+   "shape": "cube",
+   "pos": [
+    7.0,
+    0.45,
+    0.0
+   ],
+   "size": [
+    0.8,
+    0.5,
+    3.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Zona_B_Plaza",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Torre_Mirador",
+   "shape": "cylinder",
+   "pos": [
+    0.0,
+    0.1,
+    44.0
+   ],
+   "size": [
+    10.0,
+    0.2,
+    10.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Zona_C_Torre",
+   "collider": true,
+   "teleport": true,
+   "visible": true
+  },
+  {
+   "name": "Torre_Cuerpo",
+   "shape": "cylinder",
+   "pos": [
+    0.0,
+    15.0,
+    52.0
+   ],
+   "size": [
+    5.0,
+    30.0,
+    5.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Zona_C_Torre",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Torre_Anillo",
+   "shape": "cylinder",
+   "pos": [
+    0.0,
+    25.0,
+    52.0
+   ],
+   "size": [
+    8.0,
+    0.6,
+    8.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Zona_C_Torre",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Torre_Cupula",
+   "shape": "sphere",
+   "pos": [
+    0.0,
+    30.5,
+    52.0
+   ],
+   "size": [
+    4.0,
+    4.0,
+    4.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Zona_C_Torre",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_01",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    9.0,
+    -35.0
+   ],
+   "size": [
+    8.0,
+    18.0,
+    8.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_01_Neon",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    18.2,
+    -35.0
+   ],
+   "size": [
+    8.2,
+    0.4,
+    8.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_02",
+   "shape": "cube",
+   "pos": [
+    -18.0,
+    13.0,
+    -12.0
+   ],
+   "size": [
+    10.0,
+    26.0,
+    8.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_02_Neon",
+   "shape": "cube",
+   "pos": [
+    -18.0,
+    26.2,
+    -12.0
+   ],
+   "size": [
+    10.2,
+    0.4,
+    8.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_03",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    7.0,
+    15.0
+   ],
+   "size": [
+    8.0,
+    14.0,
+    10.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_03_Neon",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    14.2,
+    15.0
+   ],
+   "size": [
+    8.2,
+    0.4,
+    10.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_04",
+   "shape": "cube",
+   "pos": [
+    -20.0,
+    16.0,
+    35.0
+   ],
+   "size": [
+    10.0,
+    32.0,
+    10.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_04_Neon",
+   "shape": "cube",
+   "pos": [
+    -20.0,
+    32.2,
+    35.0
+   ],
+   "size": [
+    10.2,
+    0.4,
+    10.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_05",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    11.0,
+    -32.0
+   ],
+   "size": [
+    8.0,
+    22.0,
+    10.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_05_Neon",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    22.2,
+    -32.0
+   ],
+   "size": [
+    8.2,
+    0.4,
+    10.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_06",
+   "shape": "cube",
+   "pos": [
+    18.0,
+    6.0,
+    -8.0
+   ],
+   "size": [
+    10.0,
+    12.0,
+    8.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_06_Neon",
+   "shape": "cube",
+   "pos": [
+    18.0,
+    12.2,
+    -8.0
+   ],
+   "size": [
+    10.2,
+    0.4,
+    8.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_07",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    14.0,
+    18.0
+   ],
+   "size": [
+    8.0,
+    28.0,
+    8.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_07_Neon",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    28.2,
+    18.0
+   ],
+   "size": [
+    8.2,
+    0.4,
+    8.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_08",
+   "shape": "cube",
+   "pos": [
+    20.0,
+    10.0,
+    38.0
+   ],
+   "size": [
+    10.0,
+    20.0,
+    10.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Edificio_08_Neon",
+   "shape": "cube",
+   "pos": [
+    20.0,
+    20.2,
+    38.0
+   ],
+   "size": [
+    10.2,
+    0.4,
+    10.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true
+  },
+  {
+   "name": "Limite_Norte",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    2.5,
+    65.5
+   ],
+   "size": [
+    70.0,
+    5.0,
+    1.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Limites",
+   "collider": true,
+   "teleport": false,
+   "visible": false
+  },
+  {
+   "name": "Limite_Sur",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    2.5,
+    -65.5
+   ],
+   "size": [
+    70.0,
+    5.0,
+    1.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Limites",
+   "collider": true,
+   "teleport": false,
+   "visible": false
+  },
+  {
+   "name": "Limite_Este",
+   "shape": "cube",
+   "pos": [
+    35.5,
+    2.5,
+    0.0
+   ],
+   "size": [
+    1.0,
+    5.0,
+    130.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Limites",
+   "collider": true,
+   "teleport": false,
+   "visible": false
+  },
+  {
+   "name": "Limite_Oeste",
+   "shape": "cube",
+   "pos": [
+    -35.5,
+    2.5,
+    0.0
+   ],
+   "size": [
+    1.0,
+    5.0,
+    130.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Limites",
+   "collider": true,
+   "teleport": false,
+   "visible": false
+  }
+ ],
+ "materials": [
+  {
+   "name": "Mat_Suelo",
+   "color": [
+    0.08,
+    0.09,
+    0.13,
+    1
+   ],
+   "metallic": 0.2,
+   "smoothness": 0.35,
+   "emission": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "name": "Mat_Metal",
+   "color": [
+    0.62,
+    0.66,
+    0.72,
+    1
+   ],
+   "metallic": 0.85,
+   "smoothness": 0.6,
+   "emission": [
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "name": "Mat_Neon",
+   "color": [
+    0.0,
+    0.9,
+    1.0,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "emission": [
+    0.0,
+    2.2,
+    2.6,
+    1
+   ]
+  },
+  {
+   "name": "Mat_Vidrio",
+   "color": [
+    0.18,
+    0.32,
+    0.62,
+    1
+   ],
+   "metallic": 0.3,
+   "smoothness": 0.95,
+   "emission": [
+    0.02,
+    0.05,
+    0.12,
+    1
+   ]
+  }
+ ],
+ "lights": [
+  {
+   "name": "Luz_Sol",
+   "type": "directional",
+   "pos": [
+    0,
+    30,
+    0
+   ],
+   "rot": [
+    50,
+    -30,
+    0
+   ],
+   "color": [
+    0.85,
+    0.9,
+    1,
+    1
+   ],
+   "intensity": 1.1,
+   "range": 0
+  },
+  {
+   "name": "Luz_Plaza",
+   "type": "point",
+   "pos": [
+    0,
+    6,
+    0
+   ],
+   "rot": [
+    0,
+    0,
+    0
+   ],
+   "color": [
+    0.3,
+    0.95,
+    1,
+    1
+   ],
+   "intensity": 3.0,
+   "range": 26
+  }
+ ],
+ "labels": [
+  {
+   "name": "Rotulo_Portal",
+   "text": "ZONA A · PORTAL DE ENTRADA",
+   "pos": [
+    0,
+    7.8,
+    -45
+   ],
+   "group": "Zona_A_Portal"
+  },
+  {
+   "name": "Rotulo_Plaza",
+   "text": "ZONA B · PLAZA CENTRAL",
+   "pos": [
+    0,
+    7.6,
+    0
+   ],
+   "group": "Zona_B_Plaza"
+  },
+  {
+   "name": "Rotulo_Torre",
+   "text": "ZONA C · TORRE DE OBSERVACIÓN",
+   "pos": [
+    0,
+    8.5,
+    49.2
+   ],
+   "group": "Zona_C_Torre"
+  }
+ ],
+ "zones": [
+  {
+   "name": "Zona_A_Portal",
+   "pos": [
+    0,
+    0,
+    -45
+   ],
+   "radius": 4
+  },
+  {
+   "name": "Zona_B_Plaza",
+   "pos": [
+    0,
+    0,
+    0
+   ],
+   "radius": 9
+  },
+  {
+   "name": "Zona_C_Torre",
+   "pos": [
+    0,
+    0,
+    43
+   ],
+   "radius": 5
+  }
+ ],
+ "route": [
+  {
+   "name": "Ruta_Punto_0_Inicio",
+   "pos": [
+    0,
+    0,
+    -58
+   ]
+  },
+  {
+   "name": "Ruta_Punto_1_Portal",
+   "pos": [
+    0,
+    0,
+    -45
+   ]
+  },
+  {
+   "name": "Ruta_Punto_2_Plaza",
+   "pos": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "name": "Ruta_Punto_3_Torre",
+   "pos": [
+    0,
+    0,
+    43
+   ]
+  }
+ ],
+ "start": [
+  0,
+  0,
+  -58
+ ],
+ "timerLabel": [
+  0,
+  4.6,
+  49.2
+ ]
+}

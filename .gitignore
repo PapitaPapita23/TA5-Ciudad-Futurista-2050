@@ -1,0 +1,21 @@
+# Carpetas que Unity regenera
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+Entrega/*.apk
+
+# Archivos de IDE generados por Unity
+*.csproj
+*.sln
+*.suo
+*.user
+.vs/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
