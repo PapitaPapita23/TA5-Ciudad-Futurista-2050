@@ -17,7 +17,15 @@
    "group": "Entorno",
    "collider": true,
    "teleport": true,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Sendero_Portal_Plaza",
@@ -36,7 +44,15 @@
    "group": "Entorno",
    "collider": true,
    "teleport": true,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Sendero_Plaza_Torre",
@@ -55,7 +71,15 @@
    "group": "Entorno",
    "collider": true,
    "teleport": true,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Linea_Neon_1",
@@ -74,7 +98,15 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Linea_Neon_2",
@@ -93,7 +125,15 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Linea_Neon_3",
@@ -112,7 +152,15 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Linea_Neon_4",
@@ -131,7 +179,15 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Portal_Pilar_Izq",
@@ -150,7 +206,15 @@
    "group": "Zona_A_Portal",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Portal_Pilar_Der",
@@ -169,7 +233,15 @@
    "group": "Zona_A_Portal",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Portal_Arco",
@@ -188,7 +260,15 @@
    "group": "Zona_A_Portal",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Plaza_Plataforma",
@@ -207,7 +287,15 @@
    "group": "Zona_B_Plaza",
    "collider": true,
    "teleport": true,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Plaza_Holograma",
@@ -226,7 +314,15 @@
    "group": "Zona_B_Plaza",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Farola_1",
@@ -245,7 +341,15 @@
    "group": "Zona_B_Plaza",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Farola_1_Luz",
@@ -264,7 +368,15 @@
    "group": "Zona_B_Plaza",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Farola_2",
@@ -283,7 +395,15 @@
    "group": "Zona_B_Plaza",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Farola_2_Luz",
@@ -302,7 +422,15 @@
    "group": "Zona_B_Plaza",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Farola_3",
@@ -321,7 +449,15 @@
    "group": "Zona_B_Plaza",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Farola_3_Luz",
@@ -340,7 +476,15 @@
    "group": "Zona_B_Plaza",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Farola_4",
@@ -359,7 +503,15 @@
    "group": "Zona_B_Plaza",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Farola_4_Luz",
@@ -378,7 +530,15 @@
    "group": "Zona_B_Plaza",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Banco_1",
@@ -397,7 +557,15 @@
    "group": "Zona_B_Plaza",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Banco_2",
@@ -416,7 +584,15 @@
    "group": "Zona_B_Plaza",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Torre_Mirador",
@@ -435,7 +611,15 @@
    "group": "Zona_C_Torre",
    "collider": true,
    "teleport": true,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Torre_Cuerpo",
@@ -454,7 +638,15 @@
    "group": "Zona_C_Torre",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Torre_Anillo",
@@ -473,7 +665,15 @@
    "group": "Zona_C_Torre",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Torre_Cupula",
@@ -492,7 +692,15 @@
    "group": "Zona_C_Torre",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_01",
@@ -511,7 +719,15 @@
    "group": "Entorno",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_01_Neon",
@@ -530,7 +746,15 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_02",
@@ -549,7 +773,15 @@
    "group": "Entorno",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_02_Neon",
@@ -568,7 +800,15 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_03",
@@ -587,7 +827,15 @@
    "group": "Entorno",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_03_Neon",
@@ -606,7 +854,15 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_04",
@@ -625,7 +881,15 @@
    "group": "Entorno",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_04_Neon",
@@ -644,7 +908,15 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_05",
@@ -663,7 +935,15 @@
    "group": "Entorno",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_05_Neon",
@@ -682,7 +962,15 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_06",
@@ -701,7 +989,15 @@
    "group": "Entorno",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_06_Neon",
@@ -720,7 +1016,15 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_07",
@@ -739,7 +1043,15 @@
    "group": "Entorno",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_07_Neon",
@@ -758,7 +1070,15 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_08",
@@ -777,7 +1097,15 @@
    "group": "Entorno",
    "collider": true,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Edificio_08_Neon",
@@ -796,7 +1124,9357 @@
    "group": "Entorno",
    "collider": false,
    "teleport": false,
-   "visible": true
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_Ventanas_1",
+   "shape": "cube",
+   "pos": [
+    -11.940000000000001,
+    3.0,
+    -35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_VentanasFrente_1",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    3.0,
+    -39.06
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_Ventanas_2",
+   "shape": "cube",
+   "pos": [
+    -11.940000000000001,
+    6.2,
+    -35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_VentanasFrente_2",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    6.2,
+    -39.06
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_Ventanas_3",
+   "shape": "cube",
+   "pos": [
+    -11.940000000000001,
+    9.4,
+    -35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_VentanasFrente_3",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    9.4,
+    -39.06
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    -11.940000000000001,
+    12.600000000000001,
+    -35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_VentanasFrente_4",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    12.600000000000001,
+    -39.06
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_Ventanas_5",
+   "shape": "cube",
+   "pos": [
+    -11.940000000000001,
+    15.8,
+    -35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_VentanasFrente_5",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    15.8,
+    -39.06
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_Borde_1",
+   "shape": "cube",
+   "pos": [
+    -12.0,
+    9.0,
+    -39.0
+   ],
+   "size": [
+    0.18,
+    18.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_01_Borde_2",
+   "shape": "cube",
+   "pos": [
+    -12.0,
+    9.0,
+    -31.0
+   ],
+   "size": [
+    0.18,
+    18.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_Ventanas_1",
+   "shape": "cube",
+   "pos": [
+    -12.940000000000001,
+    3.0,
+    -12.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_VentanasFrente_1",
+   "shape": "cube",
+   "pos": [
+    -18.0,
+    3.0,
+    -16.06
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_Ventanas_2",
+   "shape": "cube",
+   "pos": [
+    -12.940000000000001,
+    6.2,
+    -12.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_VentanasFrente_2",
+   "shape": "cube",
+   "pos": [
+    -18.0,
+    6.2,
+    -16.06
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_Ventanas_3",
+   "shape": "cube",
+   "pos": [
+    -12.940000000000001,
+    9.4,
+    -12.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_VentanasFrente_3",
+   "shape": "cube",
+   "pos": [
+    -18.0,
+    9.4,
+    -16.06
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    -12.940000000000001,
+    12.600000000000001,
+    -12.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_VentanasFrente_4",
+   "shape": "cube",
+   "pos": [
+    -18.0,
+    12.600000000000001,
+    -16.06
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_Ventanas_5",
+   "shape": "cube",
+   "pos": [
+    -12.940000000000001,
+    15.8,
+    -12.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_VentanasFrente_5",
+   "shape": "cube",
+   "pos": [
+    -18.0,
+    15.8,
+    -16.06
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_Ventanas_6",
+   "shape": "cube",
+   "pos": [
+    -12.940000000000001,
+    19.0,
+    -12.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_VentanasFrente_6",
+   "shape": "cube",
+   "pos": [
+    -18.0,
+    19.0,
+    -16.06
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_Ventanas_7",
+   "shape": "cube",
+   "pos": [
+    -12.940000000000001,
+    22.2,
+    -12.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_VentanasFrente_7",
+   "shape": "cube",
+   "pos": [
+    -18.0,
+    22.2,
+    -16.06
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_Borde_1",
+   "shape": "cube",
+   "pos": [
+    -13.0,
+    13.0,
+    -16.0
+   ],
+   "size": [
+    0.18,
+    26.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_02_Borde_2",
+   "shape": "cube",
+   "pos": [
+    -13.0,
+    13.0,
+    -8.0
+   ],
+   "size": [
+    0.18,
+    26.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_03_Ventanas_1",
+   "shape": "cube",
+   "pos": [
+    -11.940000000000001,
+    3.0,
+    15.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_03_VentanasFrente_1",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    3.0,
+    9.940000000000001
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_03_Ventanas_2",
+   "shape": "cube",
+   "pos": [
+    -11.940000000000001,
+    6.2,
+    15.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_03_VentanasFrente_2",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    6.2,
+    9.940000000000001
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_03_Ventanas_3",
+   "shape": "cube",
+   "pos": [
+    -11.940000000000001,
+    9.4,
+    15.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_03_VentanasFrente_3",
+   "shape": "cube",
+   "pos": [
+    -16.0,
+    9.4,
+    9.940000000000001
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_03_Borde_1",
+   "shape": "cube",
+   "pos": [
+    -12.0,
+    7.0,
+    10.0
+   ],
+   "size": [
+    0.18,
+    14.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_03_Borde_2",
+   "shape": "cube",
+   "pos": [
+    -12.0,
+    7.0,
+    20.0
+   ],
+   "size": [
+    0.18,
+    14.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_Ventanas_1",
+   "shape": "cube",
+   "pos": [
+    -14.940000000000001,
+    3.0,
+    35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_VentanasFrente_1",
+   "shape": "cube",
+   "pos": [
+    -20.0,
+    3.0,
+    29.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_Ventanas_2",
+   "shape": "cube",
+   "pos": [
+    -14.940000000000001,
+    6.2,
+    35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_VentanasFrente_2",
+   "shape": "cube",
+   "pos": [
+    -20.0,
+    6.2,
+    29.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_Ventanas_3",
+   "shape": "cube",
+   "pos": [
+    -14.940000000000001,
+    9.4,
+    35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_VentanasFrente_3",
+   "shape": "cube",
+   "pos": [
+    -20.0,
+    9.4,
+    29.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    -14.940000000000001,
+    12.600000000000001,
+    35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_VentanasFrente_4",
+   "shape": "cube",
+   "pos": [
+    -20.0,
+    12.600000000000001,
+    29.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_Ventanas_5",
+   "shape": "cube",
+   "pos": [
+    -14.940000000000001,
+    15.8,
+    35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_VentanasFrente_5",
+   "shape": "cube",
+   "pos": [
+    -20.0,
+    15.8,
+    29.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_Ventanas_6",
+   "shape": "cube",
+   "pos": [
+    -14.940000000000001,
+    19.0,
+    35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_VentanasFrente_6",
+   "shape": "cube",
+   "pos": [
+    -20.0,
+    19.0,
+    29.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_Ventanas_7",
+   "shape": "cube",
+   "pos": [
+    -14.940000000000001,
+    22.2,
+    35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_VentanasFrente_7",
+   "shape": "cube",
+   "pos": [
+    -20.0,
+    22.2,
+    29.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    -14.940000000000001,
+    25.4,
+    35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_VentanasFrente_8",
+   "shape": "cube",
+   "pos": [
+    -20.0,
+    25.4,
+    29.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_Ventanas_9",
+   "shape": "cube",
+   "pos": [
+    -14.940000000000001,
+    28.599999999999998,
+    35.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_VentanasFrente_9",
+   "shape": "cube",
+   "pos": [
+    -20.0,
+    28.599999999999998,
+    29.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_Borde_1",
+   "shape": "cube",
+   "pos": [
+    -15.0,
+    16.0,
+    30.0
+   ],
+   "size": [
+    0.18,
+    32.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_04_Borde_2",
+   "shape": "cube",
+   "pos": [
+    -15.0,
+    16.0,
+    40.0
+   ],
+   "size": [
+    0.18,
+    32.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_Ventanas_1",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    3.0,
+    -32.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_VentanasFrente_1",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    3.0,
+    -37.06
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_Ventanas_2",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    6.2,
+    -32.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_VentanasFrente_2",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    6.2,
+    -37.06
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_Ventanas_3",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    9.4,
+    -32.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_VentanasFrente_3",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    9.4,
+    -37.06
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    12.600000000000001,
+    -32.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_VentanasFrente_4",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    12.600000000000001,
+    -37.06
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_Ventanas_5",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    15.8,
+    -32.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_VentanasFrente_5",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    15.8,
+    -37.06
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_Ventanas_6",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    19.0,
+    -32.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_VentanasFrente_6",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    19.0,
+    -37.06
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_Borde_1",
+   "shape": "cube",
+   "pos": [
+    12.0,
+    11.0,
+    -37.0
+   ],
+   "size": [
+    0.18,
+    22.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_05_Borde_2",
+   "shape": "cube",
+   "pos": [
+    12.0,
+    11.0,
+    -27.0
+   ],
+   "size": [
+    0.18,
+    22.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_06_Ventanas_1",
+   "shape": "cube",
+   "pos": [
+    12.940000000000001,
+    3.0,
+    -8.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_06_VentanasFrente_1",
+   "shape": "cube",
+   "pos": [
+    18.0,
+    3.0,
+    -12.059999999999999
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_06_Ventanas_2",
+   "shape": "cube",
+   "pos": [
+    12.940000000000001,
+    6.2,
+    -8.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_06_VentanasFrente_2",
+   "shape": "cube",
+   "pos": [
+    18.0,
+    6.2,
+    -12.059999999999999
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_06_Ventanas_3",
+   "shape": "cube",
+   "pos": [
+    12.940000000000001,
+    9.4,
+    -8.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_06_VentanasFrente_3",
+   "shape": "cube",
+   "pos": [
+    18.0,
+    9.4,
+    -12.059999999999999
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_06_Borde_1",
+   "shape": "cube",
+   "pos": [
+    13.0,
+    6.0,
+    -12.0
+   ],
+   "size": [
+    0.18,
+    12.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_06_Borde_2",
+   "shape": "cube",
+   "pos": [
+    13.0,
+    6.0,
+    -4.0
+   ],
+   "size": [
+    0.18,
+    12.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_Ventanas_1",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    3.0,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_VentanasFrente_1",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    3.0,
+    13.940000000000001
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_Ventanas_2",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    6.2,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_VentanasFrente_2",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    6.2,
+    13.940000000000001
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_Ventanas_3",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    9.4,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_VentanasFrente_3",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    9.4,
+    13.940000000000001
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    12.600000000000001,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_VentanasFrente_4",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    12.600000000000001,
+    13.940000000000001
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_Ventanas_5",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    15.8,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_VentanasFrente_5",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    15.8,
+    13.940000000000001
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_Ventanas_6",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    19.0,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_VentanasFrente_6",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    19.0,
+    13.940000000000001
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_Ventanas_7",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    22.2,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_VentanasFrente_7",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    22.2,
+    13.940000000000001
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    11.940000000000001,
+    25.4,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    6.4
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_VentanasFrente_8",
+   "shape": "cube",
+   "pos": [
+    16.0,
+    25.4,
+    13.940000000000001
+   ],
+   "size": [
+    6.4,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_Borde_1",
+   "shape": "cube",
+   "pos": [
+    12.0,
+    14.0,
+    14.0
+   ],
+   "size": [
+    0.18,
+    28.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_07_Borde_2",
+   "shape": "cube",
+   "pos": [
+    12.0,
+    14.0,
+    22.0
+   ],
+   "size": [
+    0.18,
+    28.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_Ventanas_1",
+   "shape": "cube",
+   "pos": [
+    14.940000000000001,
+    3.0,
+    38.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_VentanasFrente_1",
+   "shape": "cube",
+   "pos": [
+    20.0,
+    3.0,
+    32.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_Ventanas_2",
+   "shape": "cube",
+   "pos": [
+    14.940000000000001,
+    6.2,
+    38.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_VentanasFrente_2",
+   "shape": "cube",
+   "pos": [
+    20.0,
+    6.2,
+    32.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_Ventanas_3",
+   "shape": "cube",
+   "pos": [
+    14.940000000000001,
+    9.4,
+    38.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_VentanasFrente_3",
+   "shape": "cube",
+   "pos": [
+    20.0,
+    9.4,
+    32.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    14.940000000000001,
+    12.600000000000001,
+    38.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_VentanasFrente_4",
+   "shape": "cube",
+   "pos": [
+    20.0,
+    12.600000000000001,
+    32.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_Ventanas_5",
+   "shape": "cube",
+   "pos": [
+    14.940000000000001,
+    15.8,
+    38.0
+   ],
+   "size": [
+    0.1,
+    0.35,
+    8.0
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_VentanasFrente_5",
+   "shape": "cube",
+   "pos": [
+    20.0,
+    15.8,
+    32.94
+   ],
+   "size": [
+    8.0,
+    0.35,
+    0.1
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_Borde_1",
+   "shape": "cube",
+   "pos": [
+    15.0,
+    10.0,
+    33.0
+   ],
+   "size": [
+    0.18,
+    20.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Edificio_08_Borde_2",
+   "shape": "cube",
+   "pos": [
+    15.0,
+    10.0,
+    43.0
+   ],
+   "size": [
+    0.18,
+    20.0,
+    0.18
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_01",
+   "shape": "cylinder",
+   "pos": [
+    -3.2,
+    1.75,
+    -55.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_01_Luz",
+   "shape": "sphere",
+   "pos": [
+    -3.2,
+    3.6,
+    -55.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_02",
+   "shape": "cylinder",
+   "pos": [
+    3.2,
+    1.75,
+    -55.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_02_Luz",
+   "shape": "sphere",
+   "pos": [
+    3.2,
+    3.6,
+    -55.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_03",
+   "shape": "cylinder",
+   "pos": [
+    -3.2,
+    1.75,
+    -38.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_03_Luz",
+   "shape": "sphere",
+   "pos": [
+    -3.2,
+    3.6,
+    -38.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_04",
+   "shape": "cylinder",
+   "pos": [
+    3.2,
+    1.75,
+    -38.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_04_Luz",
+   "shape": "sphere",
+   "pos": [
+    3.2,
+    3.6,
+    -38.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_05",
+   "shape": "cylinder",
+   "pos": [
+    -3.2,
+    1.75,
+    -27.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_05_Luz",
+   "shape": "sphere",
+   "pos": [
+    -3.2,
+    3.6,
+    -27.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_06",
+   "shape": "cylinder",
+   "pos": [
+    3.2,
+    1.75,
+    -27.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_06_Luz",
+   "shape": "sphere",
+   "pos": [
+    3.2,
+    3.6,
+    -27.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_07",
+   "shape": "cylinder",
+   "pos": [
+    -3.2,
+    1.75,
+    -16.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_07_Luz",
+   "shape": "sphere",
+   "pos": [
+    -3.2,
+    3.6,
+    -16.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_08",
+   "shape": "cylinder",
+   "pos": [
+    3.2,
+    1.75,
+    -16.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_08_Luz",
+   "shape": "sphere",
+   "pos": [
+    3.2,
+    3.6,
+    -16.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_09",
+   "shape": "cylinder",
+   "pos": [
+    -3.2,
+    1.75,
+    14.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_09_Luz",
+   "shape": "sphere",
+   "pos": [
+    -3.2,
+    3.6,
+    14.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_10",
+   "shape": "cylinder",
+   "pos": [
+    3.2,
+    1.75,
+    14.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_10_Luz",
+   "shape": "sphere",
+   "pos": [
+    3.2,
+    3.6,
+    14.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_11",
+   "shape": "cylinder",
+   "pos": [
+    -3.2,
+    1.75,
+    24.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_11_Luz",
+   "shape": "sphere",
+   "pos": [
+    -3.2,
+    3.6,
+    24.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_12",
+   "shape": "cylinder",
+   "pos": [
+    3.2,
+    1.75,
+    24.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_12_Luz",
+   "shape": "sphere",
+   "pos": [
+    3.2,
+    3.6,
+    24.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_13",
+   "shape": "cylinder",
+   "pos": [
+    -3.2,
+    1.75,
+    34.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_13_Luz",
+   "shape": "sphere",
+   "pos": [
+    -3.2,
+    3.6,
+    34.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_14",
+   "shape": "cylinder",
+   "pos": [
+    3.2,
+    1.75,
+    34.0
+   ],
+   "size": [
+    0.15,
+    3.5,
+    0.15
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Farola_Calle_14_Luz",
+   "shape": "sphere",
+   "pos": [
+    3.2,
+    3.6,
+    34.0
+   ],
+   "size": [
+    0.45,
+    0.45,
+    0.45
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Plaza_Borde_Neon",
+   "shape": "cylinder",
+   "pos": [
+    0.0,
+    0.03,
+    0.0
+   ],
+   "size": [
+    21.0,
+    0.06,
+    21.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Zona_B_Plaza",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Plaza_Holograma_Cubo",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    5.0,
+    0.0
+   ],
+   "size": [
+    1.3,
+    1.3,
+    1.3
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Zona_B_Plaza",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    35.0,
+    0.0,
+    45.0
+   ],
+   "motion": "rotatebob",
+   "speed": 45.0,
+   "amp": 0.4
+  },
+  {
+   "name": "Plaza_Holograma_Anillo",
+   "shape": "cylinder",
+   "pos": [
+    0.0,
+    3.2,
+    0.0
+   ],
+   "size": [
+    4.0,
+    0.06,
+    4.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Zona_B_Plaza",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "bob",
+   "speed": 1.2,
+   "amp": 0.3
+  },
+  {
+   "name": "Portal_Arco_2",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    7.4,
+    -45.0
+   ],
+   "size": [
+    9.0,
+    0.3,
+    0.3
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Zona_A_Portal",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Portal_Franja_Izq",
+   "shape": "cube",
+   "pos": [
+    -2.95,
+    3.0,
+    -45.0
+   ],
+   "size": [
+    0.1,
+    6.0,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Zona_A_Portal",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Portal_Franja_Der",
+   "shape": "cube",
+   "pos": [
+    2.95,
+    3.0,
+    -45.0
+   ],
+   "size": [
+    0.1,
+    6.0,
+    0.1
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Zona_A_Portal",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Torre_Anillo_2",
+   "shape": "cylinder",
+   "pos": [
+    0.0,
+    10.0,
+    52.0
+   ],
+   "size": [
+    6.5,
+    0.4,
+    6.5
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Zona_C_Torre",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Torre_Anillo_3",
+   "shape": "cylinder",
+   "pos": [
+    0.0,
+    18.0,
+    52.0
+   ],
+   "size": [
+    6.5,
+    0.4,
+    6.5
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Zona_C_Torre",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Torre_Antena",
+   "shape": "cylinder",
+   "pos": [
+    0.0,
+    36.5,
+    52.0
+   ],
+   "size": [
+    0.3,
+    8.0,
+    0.3
+   ],
+   "mat": "Mat_Metal",
+   "group": "Zona_C_Torre",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Torre_Baliza",
+   "shape": "sphere",
+   "pos": [
+    0.0,
+    41.0,
+    52.0
+   ],
+   "size": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Zona_C_Torre",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "bob",
+   "speed": 2.0,
+   "amp": 0.3
+  },
+  {
+   "name": "Skyline_O_1",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    22.0,
+    -52.0
+   ],
+   "size": [
+    6.0,
+    44.0,
+    7.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_1_Neon",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    44.2,
+    -52.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_1_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    4.0,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_1_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    8.5,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_1_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    13.0,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_1_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    17.5,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_1_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    22.0,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_1_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    26.5,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_1_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    31.0,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_1_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    35.5,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_1_Ventanas_40",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    40.0,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_1",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    20.0,
+    -52.0
+   ],
+   "size": [
+    6.0,
+    40.0,
+    7.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_1_Neon",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    40.2,
+    -52.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_1_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    4.0,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_1_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    8.5,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_1_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    13.0,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_1_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    17.5,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_1_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    22.0,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_1_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    26.5,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_1_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    31.0,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_1_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    35.5,
+    -52.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_2",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    18.0,
+    -38.0
+   ],
+   "size": [
+    6.0,
+    36.0,
+    7.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_2_Neon",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    36.2,
+    -38.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_2_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    4.0,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_2_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    8.5,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_2_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    13.0,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_2_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    17.5,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_2_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    22.0,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_2_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    26.5,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_2_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    31.0,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    29.0,
+    -38.0
+   ],
+   "size": [
+    6.0,
+    58.0,
+    7.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Neon",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    58.2,
+    -38.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    4.0,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    8.5,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    13.0,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    17.5,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    22.0,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    26.5,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    31.0,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    35.5,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_40",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    40.0,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_44",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    44.5,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_49",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    49.0,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_2_Ventanas_53",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    53.5,
+    -38.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    26.0,
+    -24.0
+   ],
+   "size": [
+    6.0,
+    52.0,
+    7.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Neon",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    52.2,
+    -24.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    4.0,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    8.5,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    13.0,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    17.5,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    22.0,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    26.5,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    31.0,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    35.5,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Ventanas_40",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    40.0,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Ventanas_44",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    44.5,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_3_Ventanas_49",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    49.0,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_3",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    19.0,
+    -24.0
+   ],
+   "size": [
+    6.0,
+    38.0,
+    7.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_3_Neon",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    38.2,
+    -24.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_3_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    4.0,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_3_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    8.5,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_3_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    13.0,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_3_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    17.5,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_3_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    22.0,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_3_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    26.5,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_3_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    31.0,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_3_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    35.5,
+    -24.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_4",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    20.0,
+    -10.0
+   ],
+   "size": [
+    6.0,
+    40.0,
+    7.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_4_Neon",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    40.2,
+    -10.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_4_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    4.0,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_4_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    8.5,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_4_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    13.0,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_4_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    17.5,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_4_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    22.0,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_4_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    26.5,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_4_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    31.0,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_4_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    35.5,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    24.0,
+    -10.0
+   ],
+   "size": [
+    6.0,
+    48.0,
+    7.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4_Neon",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    48.2,
+    -10.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    4.0,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    8.5,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    13.0,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    17.5,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    22.0,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    26.5,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    31.0,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    35.5,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4_Ventanas_40",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    40.0,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_4_Ventanas_44",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    44.5,
+    -10.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    29.0,
+    4.0
+   ],
+   "size": [
+    6.0,
+    58.0,
+    7.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Neon",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    58.2,
+    4.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    4.0,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    8.5,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    13.0,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    17.5,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    22.0,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    26.5,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    31.0,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    35.5,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_40",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    40.0,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_44",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    44.5,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_49",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    49.0,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_5_Ventanas_53",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    53.5,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_5",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    17.0,
+    4.0
+   ],
+   "size": [
+    6.0,
+    34.0,
+    7.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_5_Neon",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    34.2,
+    4.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_5_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    4.0,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_5_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    8.5,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_5_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    13.0,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_5_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    17.5,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_5_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    22.0,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_5_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    26.5,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_5_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    31.0,
+    4.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_6",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    19.0,
+    18.0
+   ],
+   "size": [
+    6.0,
+    38.0,
+    7.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_6_Neon",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    38.2,
+    18.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_6_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    4.0,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_6_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    8.5,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_6_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    13.0,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_6_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    17.5,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_6_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    22.0,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_6_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    26.5,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_6_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    31.0,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_6_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    35.5,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_6",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    22.0,
+    18.0
+   ],
+   "size": [
+    6.0,
+    44.0,
+    7.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_6_Neon",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    44.2,
+    18.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_6_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    4.0,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_6_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    8.5,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_6_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    13.0,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_6_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    17.5,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_6_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    22.0,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_6_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    26.5,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_6_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    31.0,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_6_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    35.5,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_6_Ventanas_40",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    40.0,
+    18.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    24.0,
+    32.0
+   ],
+   "size": [
+    6.0,
+    48.0,
+    7.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7_Neon",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    48.2,
+    32.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    4.0,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    8.5,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    13.0,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    17.5,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    22.0,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    26.5,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    31.0,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    35.5,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7_Ventanas_40",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    40.0,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_7_Ventanas_44",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    44.5,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_7",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    18.0,
+    32.0
+   ],
+   "size": [
+    6.0,
+    36.0,
+    7.0
+   ],
+   "mat": "Mat_Metal",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_7_Neon",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    36.2,
+    32.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_7_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    4.0,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_7_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    8.5,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_7_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    13.0,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_7_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    17.5,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_7_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    22.0,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_7_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    26.5,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_7_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    31.0,
+    32.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_8",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    17.0,
+    46.0
+   ],
+   "size": [
+    6.0,
+    34.0,
+    7.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_8_Neon",
+   "shape": "cube",
+   "pos": [
+    -29.0,
+    34.2,
+    46.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_8_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    4.0,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_8_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    8.5,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_8_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    13.0,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_8_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    17.5,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_8_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    22.0,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_8_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    26.5,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_O_8_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    -25.94,
+    31.0,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    26.0,
+    46.0
+   ],
+   "size": [
+    6.0,
+    52.0,
+    7.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Neon",
+   "shape": "cube",
+   "pos": [
+    29.0,
+    52.2,
+    46.0
+   ],
+   "size": [
+    6.2,
+    0.4,
+    7.2
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Ventanas_4",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    4.0,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Ventanas_8",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    8.5,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Ventanas_13",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    13.0,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Ventanas_17",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    17.5,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Ventanas_22",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    22.0,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Ventanas_26",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    26.5,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Ventanas_31",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    31.0,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Ventanas_35",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    35.5,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Ventanas_40",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    40.0,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Ventanas_44",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    44.5,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_E_8_Ventanas_49",
+   "shape": "cube",
+   "pos": [
+    25.94,
+    49.0,
+    46.0
+   ],
+   "size": [
+    0.1,
+    0.3,
+    5.6
+   ],
+   "mat": "Mat_Ventanas",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_N_1",
+   "shape": "cube",
+   "pos": [
+    -18.0,
+    23.0,
+    61.0
+   ],
+   "size": [
+    8.0,
+    46.0,
+    6.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_N_1_Neon",
+   "shape": "cube",
+   "pos": [
+    -18.0,
+    46.2,
+    61.0
+   ],
+   "size": [
+    8.2,
+    0.4,
+    6.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_N_2",
+   "shape": "cube",
+   "pos": [
+    -7.0,
+    30.0,
+    61.0
+   ],
+   "size": [
+    8.0,
+    60.0,
+    6.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_N_2_Neon",
+   "shape": "cube",
+   "pos": [
+    -7.0,
+    60.2,
+    61.0
+   ],
+   "size": [
+    8.2,
+    0.4,
+    6.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_N_3",
+   "shape": "cube",
+   "pos": [
+    8.0,
+    25.0,
+    61.0
+   ],
+   "size": [
+    8.0,
+    50.0,
+    6.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_N_3_Neon",
+   "shape": "cube",
+   "pos": [
+    8.0,
+    50.2,
+    61.0
+   ],
+   "size": [
+    8.2,
+    0.4,
+    6.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_N_4",
+   "shape": "cube",
+   "pos": [
+    19.0,
+    21.0,
+    61.0
+   ],
+   "size": [
+    8.0,
+    42.0,
+    6.0
+   ],
+   "mat": "Mat_Vidrio",
+   "group": "Entorno",
+   "collider": true,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Skyline_N_4_Neon",
+   "shape": "cube",
+   "pos": [
+    19.0,
+    42.2,
+    61.0
+   ],
+   "size": [
+    8.2,
+    0.4,
+    6.2
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Piso_Linea_O_1",
+   "shape": "cube",
+   "pos": [
+    -18.5,
+    0.02,
+    -48.0
+   ],
+   "size": [
+    29.0,
+    0.02,
+    0.08
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Piso_Linea_E_1",
+   "shape": "cube",
+   "pos": [
+    18.5,
+    0.02,
+    -48.0
+   ],
+   "size": [
+    29.0,
+    0.02,
+    0.08
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Piso_Linea_O_2",
+   "shape": "cube",
+   "pos": [
+    -18.5,
+    0.02,
+    -33.0
+   ],
+   "size": [
+    29.0,
+    0.02,
+    0.08
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Piso_Linea_E_2",
+   "shape": "cube",
+   "pos": [
+    18.5,
+    0.02,
+    -33.0
+   ],
+   "size": [
+    29.0,
+    0.02,
+    0.08
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Piso_Linea_O_3",
+   "shape": "cube",
+   "pos": [
+    -18.5,
+    0.02,
+    -18.0
+   ],
+   "size": [
+    29.0,
+    0.02,
+    0.08
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Piso_Linea_E_3",
+   "shape": "cube",
+   "pos": [
+    18.5,
+    0.02,
+    -18.0
+   ],
+   "size": [
+    29.0,
+    0.02,
+    0.08
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Piso_Linea_O_4",
+   "shape": "cube",
+   "pos": [
+    -18.5,
+    0.02,
+    18.0
+   ],
+   "size": [
+    29.0,
+    0.02,
+    0.08
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Piso_Linea_E_4",
+   "shape": "cube",
+   "pos": [
+    18.5,
+    0.02,
+    18.0
+   ],
+   "size": [
+    29.0,
+    0.02,
+    0.08
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Piso_Linea_O_5",
+   "shape": "cube",
+   "pos": [
+    -18.5,
+    0.02,
+    33.0
+   ],
+   "size": [
+    29.0,
+    0.02,
+    0.08
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Piso_Linea_E_5",
+   "shape": "cube",
+   "pos": [
+    18.5,
+    0.02,
+    33.0
+   ],
+   "size": [
+    29.0,
+    0.02,
+    0.08
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
+  },
+  {
+   "name": "Auto_Volador_1",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    14.0,
+    -30.0
+   ],
+   "size": [
+    2.4,
+    0.5,
+    1.0
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "patrol",
+   "speed": 0.18,
+   "amp": 22.0
+  },
+  {
+   "name": "Auto_Volador_2",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    18.0,
+    -5.0
+   ],
+   "size": [
+    2.4,
+    0.5,
+    1.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "patrol",
+   "speed": 0.12,
+   "amp": 26.0
+  },
+  {
+   "name": "Auto_Volador_3",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    16.0,
+    20.0
+   ],
+   "size": [
+    2.4,
+    0.5,
+    1.0
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "patrol",
+   "speed": 0.15,
+   "amp": 24.0
+  },
+  {
+   "name": "Auto_Volador_4",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    22.0,
+    35.0
+   ],
+   "size": [
+    2.4,
+    0.5,
+    1.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "patrol",
+   "speed": 0.1,
+   "amp": 28.0
+  },
+  {
+   "name": "Auto_Volador_5",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    12.0,
+    8.0
+   ],
+   "size": [
+    2.4,
+    0.5,
+    1.0
+   ],
+   "mat": "Mat_NeonRosa",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "patrol",
+   "speed": 0.2,
+   "amp": 18.0
+  },
+  {
+   "name": "Auto_Volador_6",
+   "shape": "cube",
+   "pos": [
+    0.0,
+    20.0,
+    -42.0
+   ],
+   "size": [
+    2.4,
+    0.5,
+    1.0
+   ],
+   "mat": "Mat_Neon",
+   "group": "Entorno",
+   "collider": false,
+   "teleport": false,
+   "visible": true,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "patrol",
+   "speed": 0.14,
+   "amp": 25.0
   },
   {
    "name": "Limite_Norte",
@@ -815,7 +10493,15 @@
    "group": "Limites",
    "collider": true,
    "teleport": false,
-   "visible": false
+   "visible": false,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Limite_Sur",
@@ -834,7 +10520,15 @@
    "group": "Limites",
    "collider": true,
    "teleport": false,
-   "visible": false
+   "visible": false,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Limite_Este",
@@ -853,7 +10547,15 @@
    "group": "Limites",
    "collider": true,
    "teleport": false,
-   "visible": false
+   "visible": false,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   },
   {
    "name": "Limite_Oeste",
@@ -872,20 +10574,28 @@
    "group": "Limites",
    "collider": true,
    "teleport": false,
-   "visible": false
+   "visible": false,
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "motion": "",
+   "speed": 0.0,
+   "amp": 0.0
   }
  ],
  "materials": [
   {
    "name": "Mat_Suelo",
    "color": [
-    0.08,
+    0.05,
+    0.05,
     0.09,
-    0.13,
     1
    ],
-   "metallic": 0.2,
-   "smoothness": 0.35,
+   "metallic": 0.4,
+   "smoothness": 0.8,
    "emission": [
     0,
     0,
@@ -930,17 +10640,51 @@
   {
    "name": "Mat_Vidrio",
    "color": [
-    0.18,
-    0.32,
-    0.62,
+    0.12,
+    0.2,
+    0.45,
     1
    ],
-   "metallic": 0.3,
+   "metallic": 0.5,
    "smoothness": 0.95,
    "emission": [
     0.02,
     0.05,
     0.12,
+    1
+   ]
+  },
+  {
+   "name": "Mat_NeonRosa",
+   "color": [
+    1.0,
+    0.2,
+    0.75,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "emission": [
+    2.4,
+    0.25,
+    1.6,
+    1
+   ]
+  },
+  {
+   "name": "Mat_Ventanas",
+   "color": [
+    1.0,
+    0.8,
+    0.45,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "emission": [
+    1.5,
+    1.05,
+    0.45,
     1
    ]
   }
@@ -955,17 +10699,17 @@
     0
    ],
    "rot": [
-    50,
+    35,
     -30,
     0
    ],
    "color": [
-    0.85,
-    0.9,
-    1,
+    0.65,
+    0.6,
+    0.95,
     1
    ],
-   "intensity": 1.1,
+   "intensity": 0.7,
    "range": 0
   },
   {
@@ -989,6 +10733,50 @@
    ],
    "intensity": 3.0,
    "range": 26
+  },
+  {
+   "name": "Luz_Portal",
+   "type": "point",
+   "pos": [
+    0,
+    5,
+    -45
+   ],
+   "rot": [
+    0,
+    0,
+    0
+   ],
+   "color": [
+    1,
+    0.3,
+    0.8,
+    1
+   ],
+   "intensity": 2.0,
+   "range": 16
+  },
+  {
+   "name": "Luz_Torre",
+   "type": "point",
+   "pos": [
+    0,
+    8,
+    45
+   ],
+   "rot": [
+    0,
+    0,
+    0
+   ],
+   "color": [
+    0.3,
+    0.9,
+    1,
+    1
+   ],
+   "intensity": 2.5,
+   "range": 20
   }
  ],
  "labels": [

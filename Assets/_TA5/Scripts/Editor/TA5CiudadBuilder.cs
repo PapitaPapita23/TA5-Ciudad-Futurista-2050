@@ -102,10 +102,11 @@ namespace TA5.EditorTools
             // Ambiente futurista: niebla suave y luz ambiental fría.
             RenderSettings.fog = true;
             RenderSettings.fogMode = FogMode.Exponential;
-            RenderSettings.fogDensity = 0.006f;
-            RenderSettings.fogColor = new Color(0.12f, 0.16f, 0.26f);
+            RenderSettings.fogDensity = 0.007f;
+            RenderSettings.fogColor = new Color(0.14f, 0.09f, 0.24f);
             RenderSettings.ambientMode = UnityEngine.Rendering.AmbientMode.Flat;
-            RenderSettings.ambientLight = new Color(0.32f, 0.36f, 0.48f);
+            RenderSettings.ambientLight = new Color(0.28f, 0.24f, 0.42f);
+            RenderSettings.skybox = CreateNightSky();
 
             var city = new GameObject("Ciudad_Futurista_2050");
             var groups = new Dictionary<string, Transform>();
@@ -126,7 +127,17 @@ namespace TA5.EditorTools
                 if (mats.TryGetValue(o.mat, out m)) renderer.sharedMaterial = m;
                 renderer.enabled = o.visible;
                 if (o.teleport) teleportSurfaces.Add(go);
-                GameObjectUtility.SetStaticEditorFlags(go, StaticEditorFlags.BatchingStatic);
+                if (string.IsNullOrEmpty(o.motion))
+                {
+                    GameObjectUtility.SetStaticEditorFlags(go, StaticEditorFlags.BatchingStatic);
+                }
+                else
+                {
+                    var motion = go.AddComponent<AmbientMotion>();
+                    motion.mode = o.motion;
+                    motion.speed = o.speed;
+                    motion.amplitude = o.amp;
+                }
             }
 
             var lightsRoot = NewChild("Iluminacion", city.transform, Vector3.zero);
@@ -150,6 +161,10 @@ namespace TA5.EditorTools
             GameObject ui = CreateMobileUI(font, out hud);
             GameObject mobile = CreateMobilePlayer(start, ui);
             GameObject vr = CreateVRRig(start, teleportSurfaces);
+
+            CreatePostProcessing();
+            EnablePostProcessing(mobile);
+            EnablePostProcessing(vr);
 
             var platform = new GameObject("Plataforma");
             var switcher = platform.AddComponent<PlatformSwitcher>();
@@ -236,6 +251,7 @@ namespace TA5.EditorTools
             GameObject go = GameObject.CreatePrimitive(type);
             go.name = o.name;
             go.transform.position = V(o.pos);
+            if (o.rot != null && o.rot.Length == 3) go.transform.eulerAngles = V(o.rot);
             Vector3 s = V(o.size);
             // Un cilindro primitivo mide 2 m de alto con escala 1.
             if (type == PrimitiveType.Cylinder) s.y *= 0.5f;
@@ -458,6 +474,117 @@ namespace TA5.EditorTools
         }
 
         // ================================================================== Utilidades
+        // ================================================================== Diseño
+        static Material CreateNightSky()
+        {
+            Shader sh = Shader.Find("Skybox/Procedural");
+            if (sh == null) return RenderSettings.skybox;
+            string path = MatDir + "/Cielo_Noche.mat";
+            var m = AssetDatabase.LoadAssetAtPath<Material>(path);
+            if (m == null)
+            {
+                m = new Material(sh);
+                AssetDatabase.CreateAsset(m, path);
+            }
+            m.shader = sh;
+            m.SetFloat("_SunSize", 0.02f);
+            m.SetFloat("_AtmosphereThickness", 1.8f);
+            m.SetColor("_SkyTint", new Color(0.45f, 0.2f, 0.65f));
+            m.SetColor("_GroundColor", new Color(0.04f, 0.03f, 0.08f));
+            m.SetFloat("_Exposure", 0.55f);
+            EditorUtility.SetDirty(m);
+            return m;
+        }
+
+        // Bloom + tonemapping + viñeta con el Volume de URP (por reflexión, para no depender del paquete al compilar).
+        static void CreatePostProcessing()
+        {
+            Type volumeType = FindTypeByName("UnityEngine.Rendering.Volume", typeof(Component));
+            Type profileType = FindTypeByName("UnityEngine.Rendering.VolumeProfile", typeof(ScriptableObject));
+            if (volumeType == null || profileType == null)
+            {
+                Debug.Log("[TA5] Sin URP: se omite el postproceso.");
+                return;
+            }
+            string path = Root + "/Scenes/Postproceso_Ciudad.asset";
+            AssetDatabase.DeleteAsset(path);
+            var profile = ScriptableObject.CreateInstance(profileType);
+            AssetDatabase.CreateAsset(profile, path);
+
+            AddVolumeComponent(profile, "UnityEngine.Rendering.Universal.Bloom",
+                new[] { "intensity", "threshold", "scatter" }, new object[] { 1.4f, 0.85f, 0.7f });
+            AddVolumeComponent(profile, "UnityEngine.Rendering.Universal.Tonemapping",
+                new[] { "mode" }, new object[] { 2 });   // 2 = ACES
+            AddVolumeComponent(profile, "UnityEngine.Rendering.Universal.Vignette",
+                new[] { "intensity" }, new object[] { 0.28f });
+            AddVolumeComponent(profile, "UnityEngine.Rendering.Universal.ColorAdjustments",
+                new[] { "saturation", "contrast" }, new object[] { 15f, 10f });
+
+            var go = new GameObject("Postproceso_Global");
+            var volume = go.AddComponent(volumeType);
+            var isGlobalField = volumeType.GetField("isGlobal");
+            if (isGlobalField != null) isGlobalField.SetValue(volume, true);
+            var isGlobalProp = volumeType.GetProperty("isGlobal");
+            if (isGlobalProp != null && isGlobalProp.CanWrite) isGlobalProp.SetValue(volume, true, null);
+            var shared = volumeType.GetField("sharedProfile");
+            if (shared != null) shared.SetValue(volume, profile);
+            EditorUtility.SetDirty(profile);
+        }
+
+        static void AddVolumeComponent(ScriptableObject profile, string typeName, string[] fields, object[] values)
+        {
+            Type t = FindTypeByName(typeName, typeof(ScriptableObject));
+            if (t == null) return;
+            var add = profile.GetType().GetMethod("Add", new[] { typeof(Type), typeof(bool) });
+            if (add == null) return;
+            var comp = (ScriptableObject)add.Invoke(profile, new object[] { t, true });
+            comp.name = t.Name;
+            AssetDatabase.AddObjectToAsset(comp, profile);
+            for (int i = 0; i < fields.Length; i++)
+            {
+                var f = t.GetField(fields[i]);
+                if (f == null) continue;
+                object param = f.GetValue(comp);
+                var valueProp = param.GetType().GetProperty("value");
+                var overrideProp = param.GetType().GetProperty("overrideState");
+                if (valueProp == null) continue;
+                object v = values[i];
+                if (valueProp.PropertyType.IsEnum) v = Enum.ToObject(valueProp.PropertyType, v);
+                else v = Convert.ChangeType(v, valueProp.PropertyType);
+                valueProp.SetValue(param, v, null);
+                if (overrideProp != null) overrideProp.SetValue(param, true, null);
+            }
+        }
+
+        static void EnablePostProcessing(GameObject root)
+        {
+            Type camData = FindTypeByName("UnityEngine.Rendering.Universal.UniversalAdditionalCameraData", typeof(Component));
+            if (camData == null) return;
+            foreach (var cam in root.GetComponentsInChildren<Camera>(true))
+            {
+                var data = cam.GetComponent(camData);
+                if (data == null) data = cam.gameObject.AddComponent(camData);
+                var prop = camData.GetProperty("renderPostProcessing");
+                if (prop != null) prop.SetValue(data, true, null);
+            }
+        }
+
+        static Type FindTypeByName(string fullName, Type baseType)
+        {
+#if UNITY_2021_1_OR_NEWER
+            foreach (var t in TypeCache.GetTypesDerivedFrom(baseType))
+                if (t.FullName == fullName) return t;
+            return null;
+#else
+            foreach (var asm in AppDomain.CurrentDomain.GetAssemblies())
+            {
+                var t = asm.GetType(fullName);
+                if (t != null) return t;
+            }
+            return null;
+#endif
+        }
+
         static Layout LoadLayout()
         {
             string full = Path.Combine(Directory.GetParent(Application.dataPath).FullName, LayoutPath);
@@ -584,8 +711,10 @@ namespace TA5.EditorTools
         [Serializable] public class ObjDef
         {
             public string name, shape, mat, group;
-            public float[] pos, size;
+            public float[] pos, size, rot;
             public bool collider, teleport, visible;
+            public string motion;
+            public float speed, amp;
         }
         [Serializable] public class MatDef
         {

@@ -33,22 +33,29 @@ Escena 3D en Unity con tres zonas (Portal de entrada, Plaza central y Torre de o
 | 4. Generar APK Android | Compila el APK en la carpeta `Entrega/` |
 | 5. Abrir Test Runner | Pruebas de requisitos de la escena |
 
+## Diseño
+
+La ciudad tiene estilo neón nocturno. Los edificios llevan ventanas iluminadas y bordes de neón rosa y cian, el sendero está marcado con farolas y al fondo hay un skyline bajo un cielo nocturno. El brillo del neón sale del bloom de un Global Volume de URP. Los autos voladores y el holograma se mueven con `AmbientMotion.cs`.
+
 ## Resultados verificados (24/11/2026)
 
-- Escena: 42 objetos visibles, 4 materiales, 2 luces, 3 zonas rotuladas.
+- Escena: 388 objetos visibles, 6 materiales, 4 luces, 3 zonas rotuladas.
 - Test Runner: 9/9 pruebas en verde.
-- Recorrido en Play (3.2 m/s): Plaza a los 14.8 s, Torre a los 29.7 s.
+- Recorrido en Play (3.2 m/s): Plaza a los 14.8 s, Torre a los 29.8 s.
+
+Las capturas de Unity (escena, Play y Test Runner) están en la carpeta `Capturas/`.
 
 ## Estructura
 
 ```
 Assets/_TA5/
-  Scenes/      CiudadFuturista2050.unity
-  Materials/   Mat_Suelo, Mat_Metal, Mat_Neon, Mat_Vidrio
+  Scenes/      CiudadFuturista2050.unity, Postproceso_Ciudad.asset
+  Materials/   Mat_Suelo, Mat_Metal, Mat_Neon, Mat_NeonRosa, Mat_Vidrio, Mat_Ventanas, Cielo_Noche
   Prefabs/     Ciudad_Futurista_2050, Jugador_Movil
-  Scripts/     TouchJoystick, TouchLookArea, MobilePlayerController, PlatformSwitcher, RouteTimer
+  Scripts/     TouchJoystick, TouchLookArea, MobilePlayerController, PlatformSwitcher, RouteTimer, AmbientMotion
   Scripts/Editor/  TA5CiudadBuilder.cs, ciudad_layout.json
   Tests/       CiudadFuturistaTests.cs
+Capturas/      Capturas de Unity: escena, recorrido en Play y Test Runner
 Entrega/       Informe, presentación y matriz de pruebas
 ```
 
