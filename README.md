@@ -4,6 +4,10 @@ Tarea Académica 5 de Herramientas de Desarrollo Profesional – TIC (UTP). Auto
 
 Escena 3D en Unity con tres zonas (Portal de entrada, Plaza central y Torre de observación) unidas por un sendero. La misma ciudad se recorre con HTC VIVE (teletransporte, OpenXR + XR Interaction Toolkit) y con un smartphone Android (joystick táctil y arrastre para mirar).
 
+## Descargar el APK
+
+El APK ya compilado está en [`Entrega/TA5_CiudadFuturista2050.apk`](Entrega/TA5_CiudadFuturista2050.apk) (Android arm64, 38.8 MB). En el celular hay que permitir la instalación de apps de origen desconocido. Para moverse se usa el joystick táctil de la izquierda, y arrastrando el dedo en la mitad derecha se gira la cámara.
+
 ## Versión
 
 - Unity **6.6 (6000.6.10f1)**, plantilla Universal 3D (URP)
